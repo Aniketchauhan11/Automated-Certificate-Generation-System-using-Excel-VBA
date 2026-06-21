@@ -73,4 +73,29 @@ The application reads candidate information from an Excel spreadsheet, dynamical
 
 1003_Certificate.pdf
 
+## Sample Output
+
+1001_Certificate.pdf
+
+1002_Certificate.pdf
+
+1003_Certificate.pdf
+
+## Project Screenshots
+
+### Input Excel Data
+
+<img width="1906" height="666" alt="Screenshot 2026-06-21 113237" src="https://github.com/user-attachments/assets/d1e93d00-9114-484c-8bb3-a1bf113011c0" />
+
+### Certificate Template
+
+<img width="446" height="317" alt="image" src="https://github.com/user-attachments/assets/13382761-825b-4686-bcf9-28ce6e60cd3c" />
+
+### Generated PDF Certificate
+
+<img width="566" height="397" alt="image" src="https://github.com/user-attachments/assets/275ae070-6ee6-43b8-97ad-00db8231b82d" />
+
+This project demonstrates how VBA can be used to automate repetitive document generation tasks and improve operational efficiency.
+
+
 This project demonstrates how VBA can be used to automate repetitive document generation tasks and improve operational efficiency.
